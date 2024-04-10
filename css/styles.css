@@ -85,8 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+   color: #0f0a30;	
+   background-color: #ffd326;	
+   border: 2px, solid, #6854d7;
 }
 
 abbr[title],
